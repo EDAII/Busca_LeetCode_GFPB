@@ -12,16 +12,16 @@ Este projeto tem como objetivo aprofundar o conhecimento em sobre Algoritmos de 
 Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
-| 4 | [Median of Two Sorted Arrays]( )               | Difícil     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]( ) |
-| 454  | [4 Sum II ]( )               | Médio        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]( ) |
+| 4 | [Median of Two Sorted Arrays](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/master/Problemas_Gabriel/problema4.md)               | Difícil     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/master/Problemas_Gabriel/problema4.py) |
+| 454  | [4 Sum II ](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/master/Problemas_Gabriel/problema454.md)               | Médio        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/master/Problemas_Gabriel/problema454.py) |
 | 41 | [First Missing Positive](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema41.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema41.py) |
 | 76 | [Minimum Window Substring](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema76.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema76.py)  |
 
 ## Screenshots
-![Problema 4]() <br>
+![Problema 4](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/master/Problemas_Gabriel/img/img4.png?raw=true) <br>
 *Problema 4 aceitação* <br> <br>
 
-![Problema 454]( ) <br>
+![Problema 454](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/master/Problemas_Gabriel/img/img454.png?raw=true) <br>
 *Problema 454 aceitação* <br><br>
 
 ![Problema 41](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/img41.png) <br>
