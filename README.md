@@ -14,8 +14,8 @@ Os exercícios abordados são os seguintes:
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 |   | [ ]( )               | Difícil     | [ ]( ) | [Solução]( ) |
 |   | [ ]( )               |         | [ ]( ) | [Solução]( ) |
-| 41 | [First Missing Positive](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema41.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema41.py) |
-| 76 | [Minimum Window Substring](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema76.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/problema76.py)  |
+| 41 | [First Missing Positive](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema41.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema41.py) |
+| 76 | [Minimum Window Substring](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema76.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/problema76.py)  |
 
 ## Screenshots
 ![Problema ]( ) <br>
@@ -24,10 +24,10 @@ Os exercícios abordados são os seguintes:
 ![Problema ]( ) <br>
 *Problema aceitação* <br><br>
 
-![Problema 41](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/img/img41.png) <br>
+![Problema 41](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/img41.png) <br>
 *Problema 41 aceitação* <br> <br>
 
-![Problema 76](https://github.com/paulohborba/Busca_ExerLeetCode/blob/eebf377dfce0af5449065c6c381d06dd84f276e4/Problemas_Paulo/img/img76.png) <br>
+![Problema 76](https://github.com/EDAII/Busca_LeetCode_GFPB/blob/41576684e3d72e00c0f75184e2bb2441f9d1b04b/Problemas_Paulo/img76.png) <br>
 *Problema 76 aceitação* <br> <br>
 
 ## Instalação 
