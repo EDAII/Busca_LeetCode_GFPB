@@ -1,5 +1,8 @@
 # Busca Exercícios Resolvidos LeetCode
 
+**Número da Lista**: 28<br>
+**Conteúdo da Disciplina**: Busca<br>
+
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
@@ -46,4 +49,4 @@ Os exercícios abordados são os seguintes:
 - Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
 
 ### Link da apresentação
-[Vídeo]( ) 
+[Vídeo](https://drive.google.com/file/d/10KQpBnW2tiG4GYdMBvvHbcjcvC0whlEc/view?usp=sharing) 
