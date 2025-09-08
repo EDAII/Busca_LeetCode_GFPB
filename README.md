@@ -49,4 +49,4 @@ Os exercícios abordados são os seguintes:
 - Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
 
 ### Link da apresentação
-[Vídeo]([https://drive.google.com/file/d/10KQpBnW2tiG4GYdMBvvHbcjcvC0whlEc/view?usp=sharing](https://drive.google.com/file/d/10KQpBnW2tiG4GYdMBvvHbcjcvC0whlEc/view?usp=sharing)) 
+[Vídeo](https://drive.google.com/file/d/10KQpBnW2tiG4GYdMBvvHbcjcvC0whlEc/view?usp=sharing)
